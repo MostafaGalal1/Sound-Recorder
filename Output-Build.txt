@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: WindowsApplication26, Configuration: Debug Any CPU ------
+1>C:\Users\fcc\Documents\Visual Studio 2015\Projects\WindowsApplication26\WindowsApplication26\AudioAPI.vb(5,9): warning BC40056: Namespace or type specified in the Imports 'CoreAudioAPI.dll' doesn't contain any public member or cannot be found. Make sure the namespace or the type is defined and contains at least one public member. Make sure the imported element name doesn't use any aliases.
+1>C:\Users\fcc\Documents\Visual Studio 2015\Projects\WindowsApplication26\WindowsApplication26\AudioAPI.vb(10,29): error BC30002: Type 'MMDevice' is not defined.
+1>C:\Users\fcc\Documents\Visual Studio 2015\Projects\WindowsApplication26\WindowsApplication26\AudioAPI.vb(11,28): error BC30002: Type 'MMDevice' is not defined.
+1>C:\Users\fcc\Documents\Visual Studio 2015\Projects\WindowsApplication26\WindowsApplication26\AudioAPI.vb(12,23): error BC30002: Type 'MMDeviceEnumerator' is not defined.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
